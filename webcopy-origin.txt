@@ -1,0 +1,1068 @@
+Uri: https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\jquery.slick\1.5.9\slick.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\npm\slick-carousel@1.8.1\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\ajax\libs\fingerprintjs2\1.5.1\fingerprint2.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/grabbing.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\ajax\libs\owl-carousel\1.3.3\grabbing.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\ajax\libs\owl-carousel\1.3.3\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\ajax\libs\owl-carousel\1.3.3\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Saira:wght@300;400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/saira/v19/memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA71rCosg.ttf
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\s\saira\v19\memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA71rCosg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/saira/v19/memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA72jCosg.ttf
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\s\saira\v19\memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA72jCosg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/saira/v19/memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA74TFosg.ttf
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\s\saira\v19\memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA74TFosg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/saira/v19/memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA773Fosg.ttf
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\s\saira\v19\memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA773Fosg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/saira/v19/memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA79rFosg.ttf
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\s\saira\v19\memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA79rFosg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/saira/v19/memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA7wTCosg.ttf
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\s\saira\v19\memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA7wTCosg.ttf
+Content Type: font/ttf
+
+Uri: https://sdk.chathive.app/
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\index-1.htm
+Content Type: application/javascript
+
+Uri: https://www.ginfosoft.com/
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\index.htm
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/about-us.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\about-us.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/app-application.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\app-application.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/assets/css/all.min.css
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\css\all.min.css
+Content Type: text/css
+
+Uri: https://www.ginfosoft.com/assets/css/animate.min.css
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://www.ginfosoft.com/assets/css/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\css\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://www.ginfosoft.com/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.ginfosoft.com/assets/css/fontawesome.min.css
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://www.ginfosoft.com/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://www.ginfosoft.com/assets/css/main.css
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\css\main.css
+Content Type: text/css
+
+Uri: https://www.ginfosoft.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.ginfosoft.com/assets/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://www.ginfosoft.com/assets/img/2.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\2.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/about-1.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\about-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/about-2.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\about-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/about-3.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\about-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/about-baner-1.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\about-baner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/about-baner-2.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\about-baner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/aditya.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\aditya.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/apple-iphone_aivldo.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\apple-iphone_aivldo.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/arrow-angle.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\arrow-angle.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/art-digi.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\art-digi.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/bg.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\bg.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/black-concrete-textured.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\black-concrete-textured.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/blog/thumb-1.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\blog\thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/breadcrumb-bg.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\breadcrumb-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/business.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\business.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/call-center.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\call-center.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/category_2_bg_1.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\category_2_bg_1.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/category_2_bg_2.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\category_2_bg_2.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/clinic-info.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\clinic-info.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/coaching.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\coaching.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/computer.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\computer.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/digi-kitab.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\digi-kitab.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/digi.webp
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\digi.webp
+Content Type: image/webp
+
+Uri: https://www.ginfosoft.com/assets/img/digi2.webp
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\digi2.webp
+Content Type: image/webp
+
+Uri: https://www.ginfosoft.com/assets/img/edu-ac.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\edu-ac.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/edu-sol.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\edu-sol.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/education.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\education.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/error-bg.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\error-bg.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/favicon.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/feature-bg.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\feature-bg.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/fiscal.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\fiscal.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/footer-bg.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\footer-bg.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/guest-digi.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\guest-digi.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/hotel.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\hotel.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/icons/appdev.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\icons\appdev.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/icons/check.svg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\icons\check.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ginfosoft.com/assets/img/icons/feature-icon-1.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\icons\feature-icon-1.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/icons/feature-icon-2.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\icons\feature-icon-2.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/icons/feature-icon-3.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\icons\feature-icon-3.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/icons/feature-icon-4.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\icons\feature-icon-4.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/icons/graphic.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\icons\graphic.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/icons/printing.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\icons\printing.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/icons/seo.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\icons\seo.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/icons/software.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\icons\software.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/icons/web1.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\icons\web1.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/jandarpan.webp
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\jandarpan.webp
+Content Type: image/webp
+
+Uri: https://www.ginfosoft.com/assets/img/jandarpan2.webp
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\jandarpan2.webp
+Content Type: image/webp
+
+Uri: https://www.ginfosoft.com/assets/img/jewelery.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\jewelery.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/kabadi.webp
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\kabadi.webp
+Content Type: image/webp
+
+Uri: https://www.ginfosoft.com/assets/img/kabadi2.webp
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\kabadi2.webp
+Content Type: image/webp
+
+Uri: https://www.ginfosoft.com/assets/img/kabadi4.webp
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\kabadi4.webp
+Content Type: image/webp
+
+Uri: https://www.ginfosoft.com/assets/img/library.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\library.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/loan-khata.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\loan-khata.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/loan-khata.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\loan-khata.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/logo-dark.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\logo-dark.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/logo.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/medi-store.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\medi-store.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/medical.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\medical.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/mobile_dev_cover_img.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\mobile_dev_cover_img.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/msetu.webp
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\msetu.webp
+Content Type: image/webp
+
+Uri: https://www.ginfosoft.com/assets/img/msetu2.webp
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\msetu2.webp
+Content Type: image/webp
+
+Uri: https://www.ginfosoft.com/assets/img/mv.webp
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\mv.webp
+Content Type: image/webp
+
+Uri: https://www.ginfosoft.com/assets/img/mv2.webp
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\mv2.webp
+Content Type: image/webp
+
+Uri: https://www.ginfosoft.com/assets/img/one-click.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\one-click.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/partner/agrawalpacker.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\agrawalpacker.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/akpk.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\akpk.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/anaaditv.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\anaaditv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/awesomescreens.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\awesomescreens.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/baaznews.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\baaznews.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/balvikas.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\balvikas.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/clinton.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\clinton.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/creativebrains.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\creativebrains.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/demo.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\demo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/dental.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\dental.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/gogreen.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\gogreen.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/habphysio.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\habphysio.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/home.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\home.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/jitueng.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\jitueng.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/kenresort.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\kenresort.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/mechbot.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\mechbot.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/metrointeriorsindia.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\metrointeriorsindia.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/ncct.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\ncct.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/nhm.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\nhm.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/papaji.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\papaji.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/pathfinder.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\pathfinder.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/prime.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\prime.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/prompt.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\prompt.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/rkwater.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\rkwater.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/satpuda.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\satpuda.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/savechild.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\savechild.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/shgprojects.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\shgprojects.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/smart-adv.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\smart-adv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/starindiaadvertising.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\starindiaadvertising.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/svschool.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\svschool.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/technicalsystems.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\technicalsystems.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/vksc.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\vksc.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/voila.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\voila.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/vows.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\vows.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/partner/webakhbar.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\partner\webakhbar.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/pathlab.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\pathlab.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/pathology.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\pathology.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/agrawalpacker.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\agrawalpacker.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/akpk.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\akpk.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/anaaditv.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\anaaditv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/autumn.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\autumn.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/awesomescreens.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\awesomescreens.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/baaznews.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\baaznews.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/demoondelivery.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\demoondelivery.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/dental.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\dental.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/dreamresort.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\dreamresort.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/edupower.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\edupower.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/efuel.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\efuel.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/habphysio.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\habphysio.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/itc.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\itc.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/jnschool.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\jnschool.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/kabadishop.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\kabadishop.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/kenresort.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\kenresort.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/kraftmoney.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\kraftmoney.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/manasvi.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\manasvi.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/mdindore.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\mdindore.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/mechbot.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\mechbot.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/metrointeriorsindia.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\metrointeriorsindia.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/milletmint.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\milletmint.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/papajinews.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\papajinews.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/prayagkarmkand.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\prayagkarmkand.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/primeresearch.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\primeresearch.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/rcsguna.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\rcsguna.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/rkwater.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\rkwater.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/shgprojects.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\shgprojects.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/starindiaadvertising.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\starindiaadvertising.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/technicalsystems.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\technicalsystems.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/ureca.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\ureca.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/voilaquest.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\voilaquest.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/vows.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\vows.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/webakhbar.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\webakhbar.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/welcomecart.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\welcomecart.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/portfolio/wingmaple.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\portfolio\wingmaple.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/project/mis-1.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\project\mis-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/project/mis-2.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\project\mis-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/project/project-1.1.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\project\project-1.1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/project/project-1.2.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\project\project-1.2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/project/project-1.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\project\project-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/reivewer.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\reivewer.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/shop.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\shop.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/shroti.webp
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\shroti.webp
+Content Type: image/webp
+
+Uri: https://www.ginfosoft.com/assets/img/shroti2.webp
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\shroti2.webp
+Content Type: image/webp
+
+Uri: https://www.ginfosoft.com/assets/img/slc.webp
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\slc.webp
+Content Type: image/webp
+
+Uri: https://www.ginfosoft.com/assets/img/slc2.webp
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\slc2.webp
+Content Type: image/webp
+
+Uri: https://www.ginfosoft.com/assets/img/slider-arrow-blue.svg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\slider-arrow-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ginfosoft.com/assets/img/subscribe-bg.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\subscribe-bg.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/sushila.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\sushila.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/tarani.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\tarani.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/team/team-1.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\team\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/team/team-2.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\team\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/technology/androids.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\technology\androids.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/technology/ci.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\technology\ci.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/technology/elemetor.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\technology\elemetor.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/technology/firebase.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\technology\firebase.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/technology/flutter.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\technology\flutter.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/technology/html5.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\technology\html5.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/technology/iphone.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\technology\iphone.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/technology/js.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\technology\js.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/technology/laravel.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\technology\laravel.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/technology/mongodb.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\technology\mongodb.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/technology/mysql.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\technology\mysql.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/technology/nodejs.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\technology\nodejs.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/technology/php.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\technology\php.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/technology/psdd.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\technology\psdd.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/technology/windows.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\technology\windows.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/technology/woos.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\technology\woos.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/technology/wordpres1s.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\technology\wordpres1s.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/vector-shape10.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\vector-shape10.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/vector-shape3.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\vector-shape3.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/vector-shape9.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\vector-shape9.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/visha.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\visha.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/img/why-1.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\why-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/why-2.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\why-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/why-3.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\why-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/why-baner-1.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\why-baner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/why-baner-2.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\why-baner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/widget-banner-bg.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\widget-banner-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/assets/img/widget-content-bg.png
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\img\widget-content-bg.png
+Content Type: image/png
+
+Uri: https://www.ginfosoft.com/assets/js/app.js
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://www.ginfosoft.com/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.ginfosoft.com/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://www.ginfosoft.com/assets/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.ginfosoft.com/assets/js/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://www.ginfosoft.com/assets/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://www.ginfosoft.com/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://www.ginfosoft.com/assets/js/particles.min.js
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\js\particles.min.js
+Content Type: application/javascript
+
+Uri: https://www.ginfosoft.com/assets/js/popper.min.js
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://www.ginfosoft.com/assets/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.ginfosoft.com/assets/js/waypoints.min.js
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.ginfosoft.com/assets/js/wow.min.js
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://www.ginfosoft.com/assets/webfonts/bootstrap-icons.woff
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\bootstrap-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.ginfosoft.com/assets/webfonts/bootstrap-icons.woff2
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-brands-400-1.eot
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-brands-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-regular-400-1.eot
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-regular-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-solid-900-1.eot
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-solid-900.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.ginfosoft.com/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.ginfosoft.com/business-plus.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\business-plus.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/career.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\career.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/clients.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\clients.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/clinic-info-erp.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\clinic-info-erp.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/coaching-management.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\coaching-management.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/contact.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\contact.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/erp.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\erp.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/finance-management-software.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\finance-management-software.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/ginfosoft_feedback.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\ginfosoft_feedback.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/hotel-management.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\hotel-management.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/index.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\index.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/jeweler-soft.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\jeweler-soft.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/login/dist/images/team/team1.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\login\dist\images\team\team1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/login/dist/images/team/team2.jpg
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\login\dist\images\team\team2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ginfosoft.com/medical-management.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\medical-management.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/one-click-bill.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\one-click-bill.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/pathalogy-management-software.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\pathalogy-management-software.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/portfolio.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\portfolio.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/products.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\products.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/shop-management.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\shop-management.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/smart-education.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\smart-education.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/smart-library-management.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\smart-library-management.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/software-application.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\software-application.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/solutions.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\solutions.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/team.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\team.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/vision-mission.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\vision-mission.php.html
+Content Type: text/html
+
+Uri: https://www.ginfosoft.com/web-application.php
+File Name: C:\Downloaded Web Sites\www.ginfosoft.com\web-application.php.html
+Content Type: text/html
+
